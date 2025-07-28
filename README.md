@@ -30,5 +30,3 @@ The Random Forest model achieved the best results with over 90% accuracy. Featur
 Check out the full article with step-by-step explanation and visuals on Medium:  
 🔗 [Disease Type Prediction Using Machine Learning](https://medium.com/@oguzhanaydinDS/disease-type-prediction-using-machine-learning-f510ece046a6)
 
-## ▶️ How to Run
-1. Clone this repo:
